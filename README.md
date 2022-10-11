@@ -50,4 +50,4 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlemyanikKlopova)](https://github.com/PlemyanikKlopova/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlemyanikKlopova =compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlemyanikKlopova =compact)](https://github.com/PlemyanikKlopova/github-readme-stats)
