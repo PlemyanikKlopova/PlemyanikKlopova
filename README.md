@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300"/>
 </div>
+
 
 
 <div id="badges" align="center">
@@ -24,28 +25,29 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
 
-I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+### :woman_technologist: Обо мне :
 
-- :student: I’m studing in MPT
+Я студент <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из МСК.
 
-- :swimming_man: I’m swimmer
+- :student: Я учусь в МПТ(
 
-- :tired_face: I’m tired
+- :swimming_man: Профессиональный пловец
+
+- :tired_face: Я усталь
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Изучаемые языки:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PlemyanikKlopova&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlemyanikKlopova)](https://github.com/PlemyanikKlopova/github-readme-stats)
