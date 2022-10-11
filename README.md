@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://vk.com/pasha_v0r0byev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://t.me/Paveel">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -52,3 +52,5 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlemyanikKlopova)](https://github.com/PlemyanikKlopova/github-readme-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PlemyanikKlopova&theme=dark)](https://github.com/PlemyanikKlopova/leetcode-stats)
