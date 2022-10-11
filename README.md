@@ -53,4 +53,4 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlemyanikKlopova)](https://github.com/PlemyanikKlopova/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PlemyanikKlopova&theme=dark)](https://github.com/PlemyanikKlopova/leetcode-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PlemyanikKlopova)](https://github.com/PlemyanikKlopova/github-readme-activity-graph)
