@@ -17,12 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username= PlemyanikKlopova&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="heythere" align="center">
-  <h1>
-  Приветик
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
@@ -31,20 +25,13 @@
 
 ### :woman_technologist: Обо мне :
 
-Я студент <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из МСК.
 
-- :student: Я учусь в МПТ(
-
-- :swimming_man: Профессиональный пловец
-
-- :tired_face: Я усталь
-
----
 ### :hammer_and_wrench: Изучаемые языки:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: Моя статистика :
